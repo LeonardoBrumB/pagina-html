@@ -61,6 +61,9 @@ li a:hover:not(.active){
     background-color: rgb(233, 57, 233);
     color: black;
 }
+.lista{
+    position: fixed;
+}
 /* /////////////////////////////////////////// */
     /* Conteúdo Principal */
 .content{
