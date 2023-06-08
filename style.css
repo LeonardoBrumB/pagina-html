@@ -76,7 +76,7 @@ li a:hover:not(.active){
     text-align: center;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-.paragrafo1{
+.paragrafo{
     font-size: larger;
     font-style: normal;
     margin-left: 15px;
@@ -87,7 +87,7 @@ li a:hover:not(.active){
     text-align: center;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-.paragrafo2{
+.paragrafo{
     font-size: larger;
     font-style: normal;
     margin-left: 15px;
